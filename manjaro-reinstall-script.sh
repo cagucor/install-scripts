@@ -17,6 +17,7 @@ yay -S --noconfirm optimus-manager-qt
 yay -S --noconfirm balena-etcher
 yay -S --noconfirm libdbusmenu-glib
 yay -S --noconfirm vlc
+yay -S --noconfirm latte-dock
 
 # Productivity/ leisure
 yay -S --noconfirm discord
